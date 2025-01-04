@@ -1,0 +1,14 @@
+{
+    "title": "Anuv Jain",
+    "description": "Lets go Funky",
+    "img":"songs/anuv jain/anuv.jpeg",
+    "song": [
+        {
+            "name": "Husn | Anuv Jain",
+            "link": "songs/anuv jain/songs/128-Husn - Anuv Jain 128 Kbps.mp3"
+        },
+        {
+            "name": "Jo Tum Mere Ho | Anuv Jain",
+            "link": "songs/anuv jain/songs/128-Jo Tum Mere Ho - Anuv Jain 128 Kbps (1).mp3"
+        }]
+}
