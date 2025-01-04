@@ -1,39 +1,59 @@
 {
-   "title": "Atif Aslam",
+   "title": "KK",
     "description": "Lets go Funky",
-    "img":"songs/atif aslam/atif.jpeg",
+    "img":"songs/KK/kk.jpeg",
     "song": [
         {
-            "name": "Aaddat | Atif Aslam",
-            "link": "songs/atif aslam/songs/Aadat-From-Kalyug-Atif-Aslam.mp3"
+            "name": "Ajab Si | KK",
+            "link": "songs/KK/songs/Ajab Si Om Shanti Om 128 Kbps.mp3"
         },
         {
-            "name": "Tere Liye | Atif Aslam",
-            "link": "songs/atif aslam/songs/01 - Tere Liye (320 Kbps) - .mp3"
+            "name": "Dil-Ibadat | KK",
+            "link": "songs/KK/songs/Dil-Ibaadat-From-Tum-Mile-K-K.mp3"
         },
         {
-            "name": "Dil-Diya-Gallan  | Atif Aslam",
-            "link": "songs/atif aslam/songs/Dil-Diyan-Gallan-Atif-Aslam.mp3"
+            "name": "Haan-Tu-Hain | KK",
+            "link": "songs/KK/songs/Haan-Tu-Hain-From-Jannat-K-K.mp3"
         },
         {
-            "name": "Teri Yadien | Atif Aslam",
-            "link": "songs/atif aslam/songs/atif aslam new song teri yadein 2012 ft. shrey singhal.flv.mp3"
+            "name": "Zara-Sa | KK",
+            "link": "songs/KK/songs/Zara-Sa-KK-Pritam-Chakraborty.m4a"
         },
         {
-            "name": "Bheegi yadien | Atif Aslam",
-            "link": "songs/atif aslam/songs/Bheegi Yadein - www.Songs.PK.mp3"
+            "name": "Tu-Hi-Meri-Shab | KK",
+            "link": "songs/KK/songs/Tu-Hi-Meri-Shab-Hai-From-Gangster-KK.mp3"
         },
         {
-            "name": "Dil Meri Na Sune | Atif Aslam",
-            "link": "songs/atif aslam/songs/Dil Meri Na Sune (320 Kbps)~ Khiladi 786 ~.mp3"
+            "name": "Mere-Bina | KK",
+            "link": "songs/KK/songs/Mere-Bina-From-Crook-Unplugged-K-K.mp3"
         },
         {
-            "name": "O-Saathi | Atif Aslam",
-            "link": "songs/atif aslam/songs/O-Saathi-Atif-Aslam.mp3"
+            "name": "O-Jana | KK",
+            "link": "songs/KK/songs/O-Jaana-From-Raaz-The-Mystery-Continues-Raju-Singh-K-K.m4a"
         },
         {
-            "name": "Woh Lamhe | Atif Aslam",
-            "link": "songs/atif aslam/songs/Woh-Lamhe-Woh-Baatein-From-Zeher-Atif-Aslam.mp3"
+            "name": "O-Meri-Jaan | KK",
+            "link": "songs/KK/songs/O-Meri-Jaan-KK.mp3"
+        },
+        {
+            "name": "Such-Keh-Raha | KK",
+            "link": "songs/KK/songs/Such-Keh-Raha-Hai-K-K.mp3"
+        },
+        {
+            "name": "Alvida | KK",
+            "link": "songs/pritam/songs/Alvida-From-Life-in-a-Metro-KK-Pritam-Chakraborty.mp3"
+        },
+        {
+            "name": "Jannatein-Kahan | KK",
+            "link": "songs/pritam/songs/Jannatein-Kahan-From-Jannat-2-KK-Pritam-Chakraborty.mp3"
+        },
+        {
+            "name": "Tujhe-Sochta-Hoon | KK",
+            "link": "songs/pritam/songs/Tujhe-Sochta-Hoon-From-Jannat-2-KK-Pritam-Chakraborty.mp3"
+        },
+        {
+            "name": "Tujhi-Mein | KK",
+            "link": "songs/pritam/songs/Tujhi-Mein-From-Crook-Pritam-Chakraborty-KK.mp3"
         }
     ]
 }
