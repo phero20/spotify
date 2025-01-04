@@ -1,0 +1,39 @@
+{
+   "title": "Atif Aslam",
+    "description": "Lets go Funky",
+    "img":"songs/atif aslam/atif.jpeg",
+    "song": [
+        {
+            "name": "Aaddat | Atif Aslam",
+            "link": "songs/atif aslam/songs/Aadat-From-Kalyug-Atif-Aslam.mp3"
+        },
+        {
+            "name": "Tere Liye | Atif Aslam",
+            "link": "songs/atif aslam/songs/01 - Tere Liye (320 Kbps) - .mp3"
+        },
+        {
+            "name": "Dil-Diya-Gallan  | Atif Aslam",
+            "link": "songs/atif aslam/songs/Dil-Diyan-Gallan-Atif-Aslam.mp3"
+        },
+        {
+            "name": "Teri Yadien | Atif Aslam",
+            "link": "songs/atif aslam/songs/atif aslam new song teri yadein 2012 ft. shrey singhal.flv.mp3"
+        },
+        {
+            "name": "Bheegi yadien | Atif Aslam",
+            "link": "songs/atif aslam/songs/Bheegi Yadein - www.Songs.PK.mp3"
+        },
+        {
+            "name": "Dil Meri Na Sune | Atif Aslam",
+            "link": "songs/atif aslam/songs/Dil Meri Na Sune (320 Kbps)~ Khiladi 786 ~.mp3"
+        },
+        {
+            "name": "O-Saathi | Atif Aslam",
+            "link": "songs/atif aslam/songs/O-Saathi-Atif-Aslam.mp3"
+        },
+        {
+            "name": "Woh Lamhe | Atif Aslam",
+            "link": "songs/atif aslam/songs/Woh-Lamhe-Woh-Baatein-From-Zeher-Atif-Aslam.mp3"
+        }
+    ]
+}
