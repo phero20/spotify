@@ -1,0 +1,51 @@
+{
+    "title": "Arijit Singh",
+    "description": "Lets go Funky",
+    "img": "songs/arijit singh/arijit.jpeg",
+    "song": [
+        {
+            "name": "Raaz-Aankhien | Arjit Singh",
+            "link": "songs/arijit singh/songs/Raaz-Aankhein-Teri-Arijit-Singh.mp3"
+        },
+        {
+            "name": "Ae-Dil-Hai-Mushkil | Arjit Singh",
+            "link": "songs/arijit singh/songs/Ae-Dil-Hai-Mushkil-Title-Track-From-Ae-Dil-Hai-Mushkil-Pritam-Chakraborty-Arijit-Singh.mp3"
+        },
+        {
+            "name": "Hamari-Adhuri-Kahani | Arjit Singh",
+            "link": "songs/arijit singh/songs/Hamari-Adhuri-Kahani-Title-Track-Arijit-Singh-Jeet-Gannguli.mp3"
+        },
+        {
+            "name": "Aasan Nahin | Arjit Singh",
+            "link": "songs/arijit singh/songs/Aasan Nahin Yahan Aashiqui 2 128 Kbps.mp3"
+        },
+        {
+            "name": "Chaleya | Arjit Singh",
+            "link": "songs/arijit singh/songs/Chaleya-From-Jawan-Anirudh-Ravichander-Arijit-Singh-Shilpa-Rao.mp3"
+        },
+        {
+            "name": "Kesariya | Arjit Singh",
+            "link": "songs/arijit singh/songs/Kesariya-From-Brahmastra-Pritam-Arijit-Singh-Amitabh-Bhattacharya-Arijit-Singh-Amitabh-Bhattacharya.mp3"
+        },
+        {
+            "name": "Pasoori Nu | Arjit Singh",
+            "link": "songs/arijit singh/songs/Pasoori Nu (Satyaprem Ki Katha)(MyMp3Song).mp3"
+        },
+        {
+            "name": "Tumhe Kitna Pyaar | Arjit Singh",
+            "link": "songs/arijit singh/songs/Tumhe Kitna Pyaar Karte (Bawaal)(MyMp3Song).mp3"
+        },
+        {
+            "name": "Desh Mere | Arjit Singh",
+            "link": "songs/arijit singh/songs/Desh-Mere-From-Bhuj-The-Pride-Of-India-Arijit-Singh-Arko.mp3"
+        },
+        {
+            "name": "Halka Halka Sa | Arjit Singh",
+            "link": "songs/arijit singh/songs/Halka Halka Sa - Arijit Singh(MyMp3Song).mp3"
+        },
+        {
+            "name": "Moh-Nah-Laage | Arjit Singh",
+            "link": "songs/arijit singh/songs/Moh-Na-Laage-From-Dukaan-Siddharth-Garima-Shreyas-Puranik-Arijit-Singh.mp3"
+        }
+    ]
+}
