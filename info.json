@@ -1,37 +1,134 @@
 {
-    "title": "Pritam",
+   "title": "English",
     "description": "Lets go Funky",
-    "img":"songs/pritam/pritamm.jpeg",
+    "img":"songs/english songs/eng.jpeg",
     "song": [
-      
         {
-            "name": "Dil-Ibadat | Pritam",
-            "link": "songs/KK/songs/Dil-Ibaadat-From-Tum-Mile-K-K.mp3"
+            "name": "Legends Never Die | League of Legends",
+            "link": "songs/english songs/songs/01. Legends Never Die.mp3"
         },
         {
-            "name": "Haan-Tu-Hain | Pritam",
-            "link": "songs/KK/songs/Haan-Tu-Hain-From-Jannat-K-K.mp3"
+            "name": "RISE | League of Legends",
+            "link": "songs/english songs/songs/01. RISE.mp3"
         },
         {
-            "name": "Zara-Sa | Pritam",
-            "link": "songs/KK/songs/Zara-Sa-KK-Pritam-Chakraborty.m4a"
+            "name": "Warriors | League of Legends",
+            "link": "songs/english songs/songs/01. Warriors.mp3"
         },
         {
-            "name": "Alvida | Pritam",
-            "link": "songs/pritam/songs/Alvida-From-Life-in-a-Metro-KK-Pritam-Chakraborty.mp3"
+            "name": "On My Way | Alan Walker",
+            "link": "songs/english songs/songs/Alan Walker Sabrina Carpenter & Farruko - On My Way.mp3"
         },
         {
-            "name": "Jannatein-Kahan | Pritam",
-            "link": "songs/pritam/songs/Jannatein-Kahan-From-Jannat-2-KK-Pritam-Chakraborty.mp3"
+            "name": "Alone | Alan Walker",
+            "link": "songs/english songs/songs/Alone_-_Color_Out.mp3"
         },
         {
-            "name": "Tujhe-Sochta-Hoon | Pritam",
-            "link": "songs/pritam/songs/Tujhe-Sochta-Hoon-From-Jannat-2-KK-Pritam-Chakraborty.mp3"
+            "name": "I Wanna Be Yours | Arctic Monkeys",
+            "link": "songs/english songs/songs/Arctic Monkeys - I Wanna Be Yours.mp3"
         },
         {
-            "name": "Tujhi-Mein | Pritam",
-            "link": "songs/pritam/songs/Tujhi-Mein-From-Crook-Pritam-Chakraborty-KK.mp3"
+            "name": "Careless | Neffex",
+            "link": "songs/english songs/songs/Careless.mp3"
+        },
+        {
+            "name": "Why We Lose | NCS",
+            "link": "songs/english songs/songs/Cartoon, Coleman Trapp, Jéja - Why We Lose (feat. Coleman Trapp) [NCS Release].mp3"
+        },
+        {
+            "name": "Invincible | NCS",
+            "link": "songs/english songs/songs/DEAF KEV - Invincible [NCS Release].mp3"
+        },
+
+        {
+            "name": "Die With A Smile | Lady gaga,...",
+            "link": "songs/english songs/songs/Die With A Smile-(SambalpuriStar.In) (1).mp3"
+        },
+
+        {
+            "name": "End-of-Beginning | Djo",
+            "link": "songs/english songs/songs/Djo-End-of-Beginning.mp3"
+        },
+        {
+            "name": "Fight Back | Neffex",
+            "link": "songs/english songs/songs/Fight Back.mp3"
+        },
+
+        {
+            "name": "Grateful | Neffex",
+            "link": "songs/english songs/songs/Grateful.mp3"
+        },
+
+        {
+            "name": "Royalty | NCS",
+            "link": "songs/english songs/songs/Maestro Chives, Egzod, Neoni - Royalty [NCS Release].mp3"
+        },
+
+        {
+            "name": "Never Give Up | Neffex",
+            "link": "songs/english songs/songs/Never Give Up.mp3"
+        },
+
+        {
+            "name": "Outside | Neffex",
+            "link": "songs/english songs/songs/Outside_16.flac"
+        },
+
+        {
+            "name": "Light It Up | NCS",
+            "link": "songs/english songs/songs/Robin Hustin, Tobimorrow - Light It Up [NCS Release].mp3"
+        },
+
+        {
+            "name": "On and On | NCS",
+            "link": "songs/english songs/songs/Sayfro, BAYZY - On and On [NCS Release].mp3"
+        },
+        {
+            "name": "Skyfall | Adele",
+            "link": "songs/english songs/songs/Skyfall_-_Hybrid_Factory.mp3"
+        },
+
+        {
+            "name": "Starboy | Weekend",
+            "link": "songs/english songs/songs/Starboy.mp3"
+        },
+        {
+            "name": "Cradles | Weekend",
+            "link": "songs/english songs/songs/Sub Urban - Cradles [NCS Release].mp3"
+        },
+        {
+            "name": "Mortals | NCS",
+            "link": "songs/english songs/songs/Warriyo, Laura Brehm - Mortals (feat. Laura Brehm) [NCS Release].mp3"
+        },
+        {
+            "name": "fearless | Neffex",
+            "link": "songs/english songs/songs/yanvince - fearless [NCS Release].mp3"
+        },
+        {
+            "name": "Invisible | NCS",
+            "link": "songs/english songs/songs/Zeus X Crona - Invisible [NCS Release].mp3"
+        },
+
+
+
+
+
+
+
+
+
+
+        {
+            "name": "Summertime sadness | Lana-Del-Ray",
+            "link": "songs/songssss/Lana_Del_Ray_-_Summertime_Sadness_(Prysm_Remix)_-_Prysm_(2).mp3"
+        },
+        {
+            "name": "Moonlight | Man-VS-Moustique",
+            "link": "songs/songssss/MoonLight_-_Man_VS_Moustique_-_MoonLight_(2).mp3"
+        },
+        {
+            "name": "Snowman | Sia",
+            "link": "songs/songssss/Sia_-_Snowman_CeeNaija.com_.mp3"
         }
-       
     ]
 }
