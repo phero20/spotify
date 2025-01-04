@@ -1,0 +1,38 @@
+{
+   "title": "NCS",
+    "description": "Lets go Funky",
+    "img":"songs/ncs/ncs.jpeg",
+    "song":
+    [
+        {
+            "name": "Why We Lose | NCS",
+            "link": "songs/english songs/songs/Cartoon, Coleman Trapp, Jéja - Why We Lose (feat. Coleman Trapp) [NCS Release].mp3"
+        },
+        {
+            "name": "Invincible | NCS",
+            "link": "songs/english songs/songs/DEAF KEV - Invincible [NCS Release].mp3"
+        },
+        {
+            "name": "Royalty | NCS",
+            "link": "songs/english songs/songs/Maestro Chives, Egzod, Neoni - Royalty [NCS Release].mp3"
+        },
+        {
+            "name": "Light It Up | NCS",
+            "link": "songs/english songs/songs/Robin Hustin, Tobimorrow - Light It Up [NCS Release].mp3"
+        },
+
+        {
+            "name": "On and On | NCS",
+            "link": "songs/english songs/songs/Sayfro, BAYZY - On and On [NCS Release].mp3"
+        },
+        {
+            "name": "Mortals | NCS",
+            "link": "songs/english songs/songs/Warriyo, Laura Brehm - Mortals (feat. Laura Brehm) [NCS Release].mp3"
+        },
+        {
+            "name": "Invisible | NCS",
+            "link": "songs/english songs/songs/Zeus X Crona - Invisible [NCS Release].mp3"
+        }
+
+    ]
+}
