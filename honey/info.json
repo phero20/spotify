@@ -1,0 +1,35 @@
+{
+   "title": "Honey Singh",
+    "description": "Lets go Funky",
+    "img":"songs/honey/honey.jpeg",
+    "song": [
+        {
+            "name": "Blue Eyes | Honey Singh",
+            "link": "songs/honey/songs/Blue Eyes.mp3"
+        },
+        {
+            "name": "Brown-Rang | Honey Singh",
+            "link": "songs/honey/songs/Brown-Rang.mp3"
+        },
+        {
+            "name": "Love_Dose | Honey Singh",
+            "link": "songs/honey/songs/Love_Dose_Extended.mp3"
+        },
+        {
+            "name": "Millionaire | Honey Singh",
+            "link": "songs/honey/songs/Millionaire - (Raag.Fm).mp3"
+        },
+        {
+            "name": "Dheere Dheere Se | Honey Singh",
+            "link": "songs/honey/songs/Dheere Dheere Yo Yo Honey Singh 320 Kbps.mp3"
+        },
+        {
+            "name": "Desi Kalakaar | Honey Singh",
+            "link": "songs/honey/songs/Desi Kalakaar - (Raag.Fm).mp3"
+        },
+        {
+            "name": "Blue Hai Pani | Honey Singh",
+            "link": "songs/honey/songs/Sunny Sunny (From Yaariyan).mp3"
+        }
+    ]
+}
