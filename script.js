@@ -1,12 +1,13 @@
 let songfolders = [
-    "songs/english songs/info.json",
-    "songs/anuv jain/info.json",
-    "songs/arijit singh/info.json",
+    "songs/mix/info.json",
     "songs/atif aslam/info.json",
-    "songs/Diljit/info.json",
-    "songs/karan aujla/info.json",
+    "songs/arijit singh/info.json",
     "songs/KK/info.json",
-    "songs/ncs/info.json"
+    "songs/english songs/info.json",
+    "songs/ncs/info.json",
+    "songs/honey/info.json",
+    "songs/pritam/info.json",
+    "songs/anuv jain/info.json", 
 ];
 
 let currentAudio = null;
@@ -42,7 +43,19 @@ async function cardd() {
         element.addEventListener("click", function() {
             main(this.getAttribute("data-index"));
         });
-    }); // Update innerHTML once after the loop
+    });
+    document.querySelectorAll(".imgplay").forEach(element => {
+        element.addEventListener("click", function() {
+            if (window.innerWidth < 1100) {
+                const left = document.querySelector(".left");
+                left.style.position = "absolute";
+                left.style.zIndex = "10";
+                left.style.backgroundColor = "black";
+                left.style.left = "0"; // Adjust as needed
+            }
+            main(this.getAttribute("data-index"));
+        });
+    }) // Update innerHTML once after the loop
 }
 
 cardd();
@@ -343,15 +356,43 @@ document.addEventListener("DOMContentLoaded", function() {
     const right = document.querySelector(".right");
 
     hamburger.addEventListener("click", function() {
-        if (left.style.display === "none" || left.style.display === "") {
-            left.style.display = "block";
+        if (left.style.left === "-40vw" || left.style.left === "" || left.style.left === "-50vw"|| left.style.left === "-60vw") {
             left.style.position = "absolute";
             left.style.zIndex = "10";
-            left.style.backgroundColor = "white"; // Adjust as needed
-            right.style.marginLeft = "250px"; // Adjust as needed
+            left.style.backgroundColor = "black";
+            left.style.left = "0"; // Adjust as needed
         } else {
-            left.style.display = "none";
+            if(window.innerWidth < 650) {
+                left.style.left = "-60vw";
+            }
+          else if (window.innerWidth < 760) {
+                left.style.left = "-50vw";
+            } else if (window.innerWidth < 1100) {
+                left.style.left = "-40vw";
+            }
             right.style.marginLeft = "0";
         }
     });
+
+    document.querySelector(".cross").addEventListener("click", function() {
+        if(window.innerWidth < 650) {
+            document.querySelector(".left").style.left = "-60vw";
+        }
+       else if (window.innerWidth < 760) {
+            document.querySelector(".left").style.left = "-50vw";
+        } else if (window.innerWidth < 1100) {
+            document.querySelector(".left").style.left = "-40vw";
+        }
+    });
+});
+document.addEventListener("DOMContentLoaded", function() {
+    const rangeInput = document.querySelector(".range input[type='range']");
+
+    function updateRangeBackground() {
+        const value = (rangeInput.value - rangeInput.min) / (rangeInput.max - rangeInput.min) * 100;
+        rangeInput.style.setProperty('--value', `${value}%`);
+    }
+
+    rangeInput.addEventListener("input", updateRangeBackground);
+    updateRangeBackground(); // Initialize on page load
 });
